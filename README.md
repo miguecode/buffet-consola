@@ -57,4 +57,8 @@ Así se ve la pantalla cuando un cliente ya terminó su pedido.
 - No se aceptan contribuciones ni está bajo ninguna licencia específica.
 
 ## 🗃️ Otros proyectos similares
+<<<<<<< HEAD
 - [Maxikiosco Junior - Aplicación de escritorio en .NET con C#](https://github.com/Leumig/CSharp-.NET-Kiosco-Junior)
+=======
+- [Maxikiosco Junior - Aplicación de escritorio en .NET con C#](https://github.com/Leumig/CSharp-.NET-Kiosco-Junior)
+>>>>>>> 8c0e0c635985ea006ddc911b46a94bbcff220920
