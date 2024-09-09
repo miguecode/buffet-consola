@@ -1,0 +1,14 @@
+C:\Users\JUNIOR\Desktop\Buffet-Consola\Buffet-Consola\bin\Debug\net6.0\Buffet-Consola.exe
+C:\Users\JUNIOR\Desktop\Buffet-Consola\Buffet-Consola\bin\Debug\net6.0\Buffet-Consola.deps.json
+C:\Users\JUNIOR\Desktop\Buffet-Consola\Buffet-Consola\bin\Debug\net6.0\Buffet-Consola.runtimeconfig.json
+C:\Users\JUNIOR\Desktop\Buffet-Consola\Buffet-Consola\bin\Debug\net6.0\Buffet-Consola.dll
+C:\Users\JUNIOR\Desktop\Buffet-Consola\Buffet-Consola\bin\Debug\net6.0\Buffet-Consola.pdb
+C:\Users\JUNIOR\Desktop\Buffet-Consola\Buffet-Consola\obj\Debug\net6.0\Buffet-Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\Desktop\Buffet-Consola\Buffet-Consola\obj\Debug\net6.0\Buffet-Consola.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\Desktop\Buffet-Consola\Buffet-Consola\obj\Debug\net6.0\Buffet-Consola.AssemblyInfo.cs
+C:\Users\JUNIOR\Desktop\Buffet-Consola\Buffet-Consola\obj\Debug\net6.0\Buffet-Consola.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\Buffet-Consola\Buffet-Consola\obj\Debug\net6.0\Buffet-Consola.dll
+C:\Users\JUNIOR\Desktop\Buffet-Consola\Buffet-Consola\obj\Debug\net6.0\refint\Buffet-Consola.dll
+C:\Users\JUNIOR\Desktop\Buffet-Consola\Buffet-Consola\obj\Debug\net6.0\Buffet-Consola.pdb
+C:\Users\JUNIOR\Desktop\Buffet-Consola\Buffet-Consola\obj\Debug\net6.0\Buffet-Consola.genruntimeconfig.cache
+C:\Users\JUNIOR\Desktop\Buffet-Consola\Buffet-Consola\obj\Debug\net6.0\ref\Buffet-Consola.dll
