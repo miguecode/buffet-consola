@@ -1,6 +1,6 @@
 # 🍕 Buffet - Aplicación de Consola en C#
 
-Este proyecto es una aplicación de consola, fue hecho en 2022 y simula un buffet. El usuario realiza un pedido por cada cliente de la fila. Creado en .NET con C#.
+Este proyecto es una aplicación de consola, fue hecho en 2022 y simula un buffet. El usuario realiza un pedido por cada cliente de la fila. Desarrollado en .NET usando C#.
 
 ## 📘 Descripción
 
