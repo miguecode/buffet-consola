@@ -57,5 +57,5 @@ Así se ve la pantalla cuando un cliente ya terminó su pedido.
 - No se aceptan contribuciones ni está bajo ninguna licencia específica.
 
 ## 🗃️ Otros proyectos similares
-- [Juego Ahorcado - Aplicación de consola en .NET con C#](https://github.com/Leumig/juego-ahorcado-consola)
-- [Maxikiosco Junior - Aplicación de escritorio en .NET con C#](https://github.com/Leumig/kiosco-junior-desktop)
+- [Juego Ahorcado - Aplicación de consola en .NET con C#](https://github.com/miguecode/juego-ahorcado-consola)
+- [Maxikiosco Junior - Aplicación de escritorio en .NET con C#](https://github.com/miguecode/kiosco-junior-desktop)
