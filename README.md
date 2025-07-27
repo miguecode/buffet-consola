@@ -54,7 +54,7 @@ Así se ve la pantalla cuando un cliente ya terminó su pedido.
 
 ## 📌 Aclaraciones
 - Fue creado en 2022, mientras cursaba la carrera de Tecnicatura Universitaria en Programación, en la Universidad Tecnológica Nacional.
-- No se aceptan contribuciones ni está bajo ninguna licencia específica
+- No se aceptan contribuciones ni está bajo ninguna licencia específica.
 
 ## 🗃️ Otros proyectos similares
 - [Juego Ahorcado - Aplicación de consola en .NET con C#](https://github.com/miguecode/juego-ahorcado-consola)
